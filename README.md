@@ -25,7 +25,7 @@ daftar_nilai.py berisi modul untuk tambah data, ubah data, cari data, hapus data
 ### sc main.py
 ![ing](ss/scmain.png)
 
-### sc inut_nilai.py
+### sc input_nilai.py
 ![ing](ss/scnilai.png)
 
 ### menu Output tambah data
